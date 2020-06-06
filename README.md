@@ -1,5 +1,5 @@
 # open-mindd.github.io
-Organization website
+Organization Website
 
 
-this is the official website of this organization i invite UI/UX designers to make it pretty
+This is the official website of this organization i invite you all to do so.
