@@ -1,4 +1,4 @@
-![Open Mindd](https://media-exp1.licdn.com/dms/image/C4D1BAQEXj9etnIGMHA/company-background_10000/0?e=1602324000&v=beta&t=gJVnPavKWkuNsCWIu0GkNnC3mScRLy3IhHHJr-s6XBU)
+![Open Mindd](https://github.com/open-mindd/open-mindd.github.io/blob/master/src/cover.png)
 
 This is the official website of this organization, currently under reformation.
 contact at __support@openmindd.xyz__ for more information.
