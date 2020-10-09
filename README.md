@@ -8,7 +8,7 @@ contact at __support@openmindd.xyz__ for more information.
 <br />
 
 <details>
-<summary>👌 Make sure your project is mature enough</summary>
+<summary>👌 Let's get started!</summary>
 <p>
 
 > 1. 'npm install' in the command line.
