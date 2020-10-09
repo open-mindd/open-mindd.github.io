@@ -11,8 +11,8 @@ contact at __support@openmindd.xyz__ for more information.
 <summary>👌 Make sure your project is mature enough</summary>
 <p>
 
-> 1. 'npm install' in the command line
-> 2. 'npm start' in the command line
+> 1. 'npm install' in the command line.
+> 2. 'npm start' in the command line.
 
 </p>
 </details>
