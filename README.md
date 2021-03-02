@@ -7,3 +7,6 @@
   <img src="https://raw.githubusercontent.com/open-mindd/open-mindd.github.io//master/src/cover.png?sanitize=true&raw=true" /><br />
 </div>
 
+<p align="center">
+ Total Visitors 👉 <img src="https://profile-counter.glitch.me/open-mindd/count.svg" />
+</p>
